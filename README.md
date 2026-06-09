@@ -45,12 +45,6 @@ Documentos-Proyecto-Final-ISOF/
 
 ---
 
-## 🔗 Repositorio del Sistema
-
-El código fuente del sistema está disponible en: [Jocafino/diversionesisof](https://github.com/Jocafino)
-
----
-
 ## 📌 Historial de Reuniones
 
 | Reunión # | Tipo | Fecha | Objetivo |
